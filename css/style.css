@@ -1,0 +1,129 @@
+﻿@charset "utf-8";
+/* CSS Document */
+	
+#menu {
+	font-size:18px;
+	font-family: bold Verdana;
+	font-weight:200;
+	}
+	
+#menu a {
+	text-decoration:none;
+	color:#fff;
+	}
+	
+#menu ul {
+	list-style:none;
+	padding:0;
+	margin:0;
+	font-size:14px;
+	}
+	
+#menu ul li {
+	padding:5px 0 5px 10px;;
+	margin:0;
+	display:block;
+	background:#99C6FF;
+	width:126px;
+ 	}
+	
+#menu dl dd ul li a {
+	color:#fff;
+	}
+
+#menu dl dd ul li a:hover {
+	color:#333;
+	}
+	
+#menu dd {
+	padding:0;
+	margin:0;
+ 	}
+
+#menu dt {
+	display:block;
+	background:#6699CC;
+	width:131px;
+	padding: 2px 0 2px 5px;
+	}
+	
+BODY {
+	SCROLLBAR-FACE-COLOR: #bdd0cd; FONT-SIZE: 11px; SCROLLBAR-HIGHLIGHT-COLOR: #f2f7fd; SCROLLBAR-SHADOW-COLOR: #a7b1bf; COLOR: #3d4751; SCROLLBAR-3DLIGHT-COLOR: #d8dfe7; SCROLLBAR-ARROW-COLOR: #7b889a; SCROLLBAR-TRACK-COLOR: #dddddd; FONT-FAMILY: Tahoma, Arial, Verdana, sans-serif; SCROLLBAR-DARKSHADOW-COLOR: #d8dfe7; BACKGROUND-COLOR: #ffffff
+}
+TD {
+	FONT-SIZE: 11px; COLOR: #3d4751; LINE-HEIGHT: 15px; FONT-FAMILY: Tahoma, Arial, sans-serif
+}
+A {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #66839d; FONT-FAMILY: Tahoma, sans-serif, Arial; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #9da8bb; TEXT-DECORATION: none
+}
+INPUT {
+	FONT-SIZE: 11px; COLOR: #3d4751; FONT-FAMILY: sans-serif, Verdana, Arial, Helvetica; BACKGROUND-COLOR: #e3e8e8
+}
+TEXTAREA {
+	FONT-SIZE: 11px; COLOR: #3d4751; FONT-FAMILY: sans-serif, Verdana, Arial, Helvetica; BACKGROUND-COLOR: #e3e8e8
+}
+OPTION {
+	BACKGROUND: #ffffff; WIDTH: 108px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+SELECT {
+	FONT-SIZE: 11px; BACKGROUND: #ffffff; WIDTH: 108px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.st1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #4d6c67
+}
+.st2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #4d6c67; LETTER-SPACING: 4px
+}
+.st3 {
+	LETTER-SPACING: 1px
+}
+.st4 {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #e6aa29
+}
+.smallst {
+	FONT-SIZE: 10px
+}
+.header {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px; COLOR: #4d6c67; BACKGROUND-COLOR: #d8e1e4
+}
+.subheader {
+	BACKGROUND-COLOR: #d8e1e4
+}
+.clean {
+	BACKGROUND-COLOR: #ffffff
+}
+.regular {
+	BACKGROUND-COLOR: #e0e6e6
+}
+.regularlight {
+	BACKGROUND-COLOR: #edeeee
+}
+.ground {
+	BACKGROUND-COLOR: #cbdbd9
+}
+.small {
+	FONT-WEIGHT: normal; FONT-SIZE: 8pt; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #ffffff
+}
+.grey {
+	BACKGROUND-COLOR: #ffffff
+}
+.menu {
+	BACKGROUND-COLOR: #e0e7e9
+}
+
+.first {
+    color: 903399;
+ }
+.center {
+    text-align: justify;
+}
+.name {
+    font-family: Comic Sans Ms, Arial;
+    color: == "0099CC";
+    font-size: 18px;
+    text-align: center;
+}
+
